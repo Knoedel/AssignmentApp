@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment-App</string>
+    <string name="accelerometer_text"> Accelerometer: </string>
+    <string name="gyroscope_text"> Gyroscope: </string>
+    <string name="magnetometer_text"> Magnetometer: </string>
+    <string name="brightness_text"> Brightness: </string>
+    <string name="proximity_text"> Proximity: </string>
+    <string name="currentLocationIntentButton_text"> Here </string>
+    <string name="airportIntentButton_text"> Airport</string>
+    <string name="muensterIntentButton_text"> Muenster</string>
+</resources>
